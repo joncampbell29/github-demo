@@ -1,6 +1,6 @@
 ---
 title: "UN Votes"
-author: "Jon Campbell"
+author: "Jon Campbell Jr"
 format: html
 ---
 
